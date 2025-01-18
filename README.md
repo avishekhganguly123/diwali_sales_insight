@@ -25,7 +25,7 @@ Examine customer-related data, including states, occupations, gender, and age gr
 &bull; Product Sales Analysis:<br>
 Identify the top-selling product categories and individual products during the Diwali period. Use bar or pie charts to display sales data and highlight the most popular items.
 # Conclusion 
-Important segments<br>
+Important segments :-<br>
 &bull; Married women age group 26-35 yrs from UP.<br>
 &bull; Maharastra and Karnataka working in IT.<br>
 &bull; Healthcare and Aviation are more likely to buy products from Food.<br>
